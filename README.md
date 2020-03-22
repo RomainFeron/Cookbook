@@ -1,6 +1,6 @@
 # My personal cookbook
 
-This repository contains
+This repository contains a collection of tried and tested recipes with personal notes and instructions.
 
 ## Recipes index
 
